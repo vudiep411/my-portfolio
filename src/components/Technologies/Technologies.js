@@ -7,7 +7,7 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider/><br/><br/>
     <SectionTitle>Skills and Technologies</SectionTitle>
-    <SectionText>HTML, CSS, Javascript, React, Express, Node, MySQL, C++, Java, Python</SectionText>
+    <SectionText>HTML, CSS, Javascript, React, Express.js, Node.js, MySQL, C++, Java, Python, Django</SectionText>
   <List>
     <ListItem>
       <DiReact size='5rem'/>

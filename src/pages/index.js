@@ -16,7 +16,10 @@ const Home = () => {
       </Section>
       <Projects />
       <Acomplishments/>
-      <Technologies />
+      <Section grid>
+        <Technologies />
+        <BgAnimation />
+      </Section>
     </Layout>
   );
 };

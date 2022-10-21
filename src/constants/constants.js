@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Blog-Stories',
-    description: "Using React, Node.js, Express & MongoDB post a post of your own for people to see! User can create accounts and manage posts.",
+    description: "Using React, Node.js, Express & MongoDB post a post of your own for people to see! Create accounts and manage your posts.",
     image: '/images/blog-stories1.png',
     demo: 'https://youtu.be/Of06nl8_TI8',
     tags: ['Mongo', 'Express', 'React', 'Node'],
@@ -20,16 +20,6 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Dentist Appointment Scheduler',
-    description: "A project inspired by my cousin who runs a dentist office but still uses pen and paper for scheduling appointments. This scheduler helps him schedule appointments for patients and save the data in mongodb. It also has an automated send an SMS reminder for patients using Twilio service",
-      image: '/images/Calendar.png',
-      tags: ['React', 'Node.js', 'Express.js', 'Mongo'],
-    source: 'https://github.com/vudiep411/DentistOfficePatientsScheduler',
-    demo: 'https://youtu.be/Izv46Q_xSqI',
-    visit: 'https://youtu.be/Izv46Q_xSqI',
-    id: 2, 
-  },
-  {
     title: 'Stock Porfolio Management',
     description: "A  commercial  portfolio management system requires numerous complex features to help organizations maintain and manage their financial assets. Fetching real time data from yahoo finance API, Bfinance (Still working on more backtesting features)",
     image: '/images/portfolio.png',
@@ -41,7 +31,7 @@ export const projects = [
   },
   {
     title: 'Ecommerce Website',
-    description: "An Online Ecommerce store using Next.js integrated with Stripe for payment method and Sanity for database",
+    description: "A responsive online Ecommerce web application using Next.js for fontend and Sanity for database integrated with Stripe to process payment method. ",
     image: '/images/ecommerce.png',
     tags: ['Sanity', 'Next.js', 'Stripe'],
     source: 'https://github.com/vudiep411/ecommerce-sanity-stripe',

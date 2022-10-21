@@ -2,4 +2,4 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-<a href="vudiep.com">visit</a>
+<a href="https://vudiep.com/">visit</a>
